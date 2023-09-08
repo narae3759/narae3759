@@ -46,7 +46,7 @@
             <th rowspan="2"> Division </th>
             <th rowspan="2"> Project </th>
             <th> Period </th>
-            <th> Category </th>
+            <th> Technology Stack </th>
             <th rowspan="2"> Link </th>
         </tr>
         <tr>
