@@ -5,6 +5,7 @@
 * 주어진 업무에 완전히 몰입하는 편입니다.
 * 한 눈에 볼 수 있도록 정보를 정리하는 것을 좋아합니다. 
 * NLP에 관심이 있습니다.
+
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=narae3759">
 
 ## 📝 Technology Stack
@@ -42,6 +43,7 @@
 <table>
     <thead>
         <tr>
+            <th rowspan="2"> Division </th>
             <th rowspan="2"> Project </th>
             <th> Period </th>
             <th> Category </th>
@@ -53,24 +55,27 @@
     </thead>
     <tbody>
         <tr align="center">
+            <td rowspan="2"><code>Team 4</code></td>
             <td rowspan="2">Smart Dashcam:<br> 사고 예방부터 처리까지</td>
             <td>2023.08.01<br>~ 2023.08.29</td>
             <td>YOLOv8, ResNet, VideoMAE, ViViT,<br> MongoDB, Flask</td>
             <td rowspan="2"></td>
         </tr>
         <tr>
-            <td colspan="2"><code>Team4</code> 두바퀴 교통수단의 안전을 위한 스마트 블랙박스</td>
+            <td colspan="2">두바퀴 교통수단의 안전을 위한 스마트 블랙박스</td>
         </tr>
         <tr align="center">
+            <td rowspan="2"><code>Team 4</code></td>
             <td rowspan="2">오늘 하루:<br>카카오톡 기반의 AI 일기장</td>
             <td>2023.07.17<br>~ 2023.07.21</td>
             <td> KcBERT, BART, GPT-3, Word2Vec</td>
             <td rowspan="2"></td>
         </tr>
         <tr>
-            <td colspan="2"><code>Team4</code> 카카오톡 대화 기반 감정 분류/텍스트 요약/음악 추천</td>
+            <td colspan="2">카카오톡 대화 기반 감정 분류/텍스트 요약/음악 추천</td>
         </tr>
         <tr align="center">
+            <td rowspan="2"><code>Individual</code></td>
             <td rowspan="2">독성 있는 공기 정화 식물 분류</td>
             <td>2023.07.04<br>~ 2023.07.06</td>
             <td> CNN, VGGNeT, ResNet </td>
@@ -80,40 +85,44 @@
             <td colspan="2">Custom CNN/Transfer Learning 모델 비교</td>
         </tr>
         <tr align="center">
+            <td rowspan="2"><code>Team 3</code></td>
             <td rowspan="2">세상의 모든 금쪽이들을 위한<br>우리가족 Golden Care</td>
             <td>2023.06.15<br>~ 2023.06.21</td>
             <td> PyCaret, LazyPredict </td>
             <td rowspan="2"></td>
         </tr>
         <tr>
-            <td colspan="2"><code>Team3</code> 머신러닝을 이용한 패널 데이터 분석</td>
+            <td colspan="2">머신러닝을 이용한 패널 데이터 분석</td>
         </tr>
         <tr align="center">
+            <td rowspan="2"><code>Team 4</code></td>
             <td rowspan="2">문화예술관람활동 데이터 분석</td>
             <td>2023.06.05<br>~ 2023.06.07</td>
             <td> Pandas, Scikit-Learn, Matplotlib </td>
             <td rowspan="2"></td>
         </tr>
         <tr>
-            <td colspan="2"><code>Team4</code> 데이터 시각화 및 분석을 통한 인사이트 도출</td>
+            <td colspan="2">데이터 시각화 및 분석을 통한 인사이트 도출</td>
         </tr>
         <tr align="center">
+            <td rowspan="2"><code>Team 5</code></td>
             <td rowspan="2">🥇 Youtube 라이브 채팅 모니터링 앱</td>
             <td>2022.12.27<br>~ 2023.02.13</td>
             <td> BERT, KoBERT, FastText, MySQL, Node.js </td>
             <td rowspan="2"></td>
         </tr>
         <tr>
-            <td colspan="2"><code>Team5</code> 실시간 댓글로 악플 점수를 예측하고 차단하는 서비스</td>
+            <td colspan="2">실시간 댓글로 악플 점수를 예측하고 차단하는 서비스</td>
         </tr>
         <tr align="center">
+            <td rowspan="2"><code>Team 4</code></td>
             <td rowspan="2">🥇 영화 리뷰 감성 분석</td>
             <td>2022.12.00<br>~ 2022.12.00</td>
             <td> LSTM, BERT, KoBERT </td>
             <td rowspan="2"></td>
         </tr>
         <tr>
-            <td colspan="2"><code>Team4</code> 감성 사전을 이용한 라벨링 후 분류 모델 생성</td>
+            <td colspan="2">감성 사전을 이용한 라벨링 후 분류 모델 생성</td>
         </tr>
     </tbody>
 </table>
