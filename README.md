@@ -1,16 +1,131 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=47A4FA&text=👋Hello!%20I'm%20NaRae&fontSize=50&fontAlign=50&fontAlignY=35)
 
-<!--
-**narae3759/narae3759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐣 Information
 
-Here are some ideas to get you started:
+* 주어진 업무에 완전히 몰입하는 편입니다.
+* 한 눈에 볼 수 있도록 정보를 정리하는 것을 좋아합니다. 
+* NLP에 관심이 있습니다.
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=narae3759">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Technology Stack
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+    <img src="https://img.shields.io/badge/MATLAB-999999?style=for-the-badge&logo=MATLAB&logoColor=white">
+    <img src="https://img.shields.io/badge/SPSS-999999?style=for-the-badge&logo=SPSS&logoColor=white">
+    <img src="https://img.shields.io/badge/SAS-999999?style=for-the-badge&logo=SAS&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+    <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+    <img src="https://img.shields.io/badge/yolo-00FFFF?style=for-the-badge&logo=yolo&logoColor=white">
+    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white">
+    <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+</div>
+
+## 🎯 Projects
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2"> Project </th>
+            <th> Period </th>
+            <th> Category </th>
+            <th rowspan="2"> Link </th>
+        </tr>
+        <tr>
+            <th colspan="2">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td rowspan="2">Smart Dashcam:<br> 사고 예방부터 처리까지</td>
+            <td>2023.08.01<br>~ 2023.08.29</td>
+            <td>YOLOv8, ResNet, VideoMAE, ViViT,<br> MongoDB, Flask</td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td colspan="2"><code>Team4</code> 두바퀴 교통수단의 안전을 위한 스마트 블랙박스</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="2">오늘 하루:<br>카카오톡 기반의 AI 일기장</td>
+            <td>2023.07.17<br>~ 2023.07.21</td>
+            <td> KcBERT, BART, GPT-3, Word2Vec</td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td colspan="2"><code>Team4</code> 카카오톡 대화 기반 감정 분류/텍스트 요약/음악 추천</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="2">독성 있는 공기 정화 식물 분류</td>
+            <td>2023.07.04<br>~ 2023.07.06</td>
+            <td> CNN, VGGNeT, ResNet </td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td colspan="2">Custom CNN/Transfer Learning 모델 비교</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="2">세상의 모든 금쪽이들을 위한<br>우리가족 Golden Care</td>
+            <td>2023.06.15<br>~ 2023.06.21</td>
+            <td> PyCaret, LazyPredict </td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td colspan="2"><code>Team3</code> 머신러닝을 이용한 패널 데이터 분석</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="2">문화예술관람활동 데이터 분석</td>
+            <td>2023.06.05<br>~ 2023.06.07</td>
+            <td> Pandas, Scikit-Learn, Matplotlib </td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td colspan="2"><code>Team4</code> 데이터 시각화 및 분석을 통한 인사이트 도출</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="2">🥇 Youtube 라이브 채팅 모니터링 앱</td>
+            <td>2022.12.27<br>~ 2023.02.13</td>
+            <td> BERT, KoBERT, FastText, MySQL, Node.js </td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td colspan="2"><code>Team5</code> 실시간 댓글로 악플 점수를 예측하고 차단하는 서비스</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="2">🥇 영화 리뷰 감성 분석</td>
+            <td>2022.12.00<br>~ 2022.12.00</td>
+            <td> LSTM, BERT, KoBERT </td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr>
+            <td colspan="2"><code>Team4</code> 감성 사전을 이용한 라벨링 후 분류 모델 생성</td>
+        </tr>
+    </tbody>
+</table>
+
+## 👭 Contact
+
+<div align="center">
+  <a href="https://narae3759.github.io/"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://narae3759.github.io/"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+  <a href="https://narae3759.github.io/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white"></a>
+</div>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=200&color=47A4FA&text=Thank%20You!&fontSize=50&fontcolor=000000&fontAlign=50&fontAlignY=70)
+
+
