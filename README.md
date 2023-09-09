@@ -69,7 +69,7 @@
             <td rowspan="2">오늘 하루:<br>카카오톡 기반의 AI 일기장</td>
             <td>2023.07.17<br>~ 2023.07.21</td>
             <td> KcBERT, BART, GPT-3, Word2Vec</td>
-            <td rowspan="2"></td>
+            <td rowspan="2"><a href="https://github.com/narae3759/7_project_today">Click!</a></td>
         </tr>
         <tr>
             <td colspan="2">카카오톡 대화 기반 감정 분류/텍스트 요약/음악 추천</td>
@@ -79,7 +79,7 @@
             <td rowspan="2">독성 있는 공기 정화 식물 분류</td>
             <td>2023.07.04<br>~ 2023.07.06</td>
             <td> CNN, VGGNeT, ResNet </td>
-            <td rowspan="2"></td>
+            <td rowspan="2"><a href="https://github.com/narae3759/6_miniproject_Image_cls">Click!</a></td>
         </tr>
         <tr>
             <td colspan="2">Custom CNN/Transfer Learning 모델 비교</td>
@@ -89,27 +89,17 @@
             <td rowspan="2">세상의 모든 금쪽이들을 위한<br>우리가족 Golden Care</td>
             <td>2023.06.15<br>~ 2023.06.21</td>
             <td> PyCaret, LazyPredict </td>
-            <td rowspan="2"></td>
+            <td rowspan="2"><a href="https://github.com/narae3759/6_project_Golden_Care">Click!</a></td>
         </tr>
         <tr>
             <td colspan="2">머신러닝을 이용한 패널 데이터 분석</td>
-        </tr>
-        <tr align="center">
-            <td rowspan="2"><code>Team 4</code></td>
-            <td rowspan="2">문화예술관람활동 데이터 분석</td>
-            <td>2023.06.05<br>~ 2023.06.07</td>
-            <td> Pandas, Scikit-Learn, Matplotlib </td>
-            <td rowspan="2"></td>
-        </tr>
-        <tr>
-            <td colspan="2">데이터 시각화 및 분석을 통한 인사이트 도출</td>
         </tr>
         <tr align="center">
             <td rowspan="2"><code>Team 5</code></td>
             <td rowspan="2">🥇 Youtube 라이브 채팅 모니터링 앱</td>
             <td>2022.12.29<br>~ 2023.02.16</td>
             <td> BERT, KoBERT, FastText, MySQL, Node.js </td>
-            <td rowspan="2"></td>
+            <td rowspan="2"><a href="https://github.com/narae3759/finalproject_Multicampus">Click!</a></td>
         </tr>
         <tr>
             <td colspan="2">실시간 댓글로 악플 점수를 예측하고 차단하는 서비스</td>
@@ -119,7 +109,7 @@
             <td rowspan="2">🥇 영화 리뷰 감성 분석</td>
             <td>2022.12.14<br>~ 2022.12.27</td>
             <td> LSTM, BERT, KoBERT </td>
-            <td rowspan="2"></td>
+            <td rowspan="2"><a href="https://github.com/narae3759/semiproject_Multicampus">Click!</a></td>
         </tr>
         <tr>
             <td colspan="2">감성 사전을 이용한 라벨링 후 분류 모델 생성</td>
