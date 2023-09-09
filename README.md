@@ -43,7 +43,7 @@
 <table>
     <thead>
         <tr>
-            <th rowspan="2"> Division </th>
+            <th rowspan="2"> Group </th>
             <th rowspan="2"> Project </th>
             <th> Period </th>
             <th> Technology Stack </th>
