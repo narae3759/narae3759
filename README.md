@@ -137,4 +137,6 @@
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=200&color=47A4FA&text=Thank%20You!&fontSize=50&fontcolor=000000&fontAlign=50&fontAlignY=70)
 
-
+<div align="right">
+referenced by <a href="https://github.com/min731">jung min 👍</a>
+</div>
