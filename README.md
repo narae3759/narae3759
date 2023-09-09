@@ -107,7 +107,7 @@
         <tr align="center">
             <td rowspan="2"><code>Team 5</code></td>
             <td rowspan="2">🥇 Youtube 라이브 채팅 모니터링 앱</td>
-            <td>2022.12.27<br>~ 2023.02.13</td>
+            <td>2022.12.29<br>~ 2023.02.16</td>
             <td> BERT, KoBERT, FastText, MySQL, Node.js </td>
             <td rowspan="2"></td>
         </tr>
@@ -117,7 +117,7 @@
         <tr align="center">
             <td rowspan="2"><code>Team 4</code></td>
             <td rowspan="2">🥇 영화 리뷰 감성 분석</td>
-            <td>2022.12.00<br>~ 2022.12.00</td>
+            <td>2022.12.14<br>~ 2022.12.27</td>
             <td> LSTM, BERT, KoBERT </td>
             <td rowspan="2"></td>
         </tr>
