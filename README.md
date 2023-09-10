@@ -8,6 +8,13 @@
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=narae3759">
 
+## 📑 Studying
+### [개인 학습 일지, TIL](https://github.com/narae3759/TIL)
+* (메타버스 아카데미) 메타버스 아카데미 2기(23.07.01~)
+* (부스트코스) 코칭스터디 10기 beyond ai basic (23.05.02~23.06.01)
+* (멀티캠퍼스) 서비스 산업 데이터 분석가 취업캠프(22.09.19~23.02.16)
+* (패스트캠퍼스) 머신러닝&AI 첫걸음 시작하기(22.08.24~22.09.28)
+
 ## 📝 Technology Stack
 
 <div align="center">
