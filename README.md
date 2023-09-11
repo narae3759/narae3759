@@ -66,7 +66,7 @@
             <td rowspan="2">Smart Dashcam:<br> 사고 예방부터 처리까지</td>
             <td>2023.08.01<br>~ 2023.08.29</td>
             <td>YOLOv8, ResNet, VideoMAE, ViViT,<br> MongoDB, Flask</td>
-            <td rowspan="2"></td>
+            <td rowspan="2"><a href="https://github.com/narae3759/smart-helmet">Click!</a></td>
         </tr>
         <tr>
             <td colspan="2">두바퀴 교통수단의 안전을 위한 스마트 블랙박스</td>
