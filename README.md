@@ -4,7 +4,7 @@
 
 * 주어진 업무에 완전히 몰입하는 편입니다.
 * 한 눈에 볼 수 있도록 정보를 정리하는 것을 좋아합니다. 
-* NLP에 관심이 있습니다.
+* LLM에 관심이 있습니다.
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=narae3759">
 
@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
     <img src="https://img.shields.io/badge/yolo-00FFFF?style=for-the-badge&logo=yolo&logoColor=white">
     <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
@@ -62,11 +63,21 @@
     </thead>
     <tbody>
         <tr align="center">
+            <td rowspan="2"><code>Team 9</code></td>
+            <td rowspan="2">Meta Training:<br> 메타인지 능력 향상을 위한 글쓰기 플랫폼</td>
+            <td>2023.09.07<br>~ 2023.09.27</td>
+            <td>GPT4, Bard, Langchain</td>
+            <td rowspan="2"><a href="https://github.com/SEP-proj">Click!</a></td>
+        </tr>
+        <tr>
+            <td colspan="2">두바퀴 교통수단의 안전을 위한 스마트 블랙박스</td>
+        </tr>
+        <tr align="center">
             <td rowspan="2"><code>Team 4</code></td>
             <td rowspan="2">Smart Dashcam:<br> 사고 예방부터 처리까지</td>
             <td>2023.08.01<br>~ 2023.08.29</td>
             <td>YOLOv8, ResNet, VideoMAE, ViViT,<br> MongoDB, Flask</td>
-            <td rowspan="2"><a href="https://github.com/narae3759/smart-helmet">Click!</a></td>
+            <td rowspan="2"><a href="https://github.com/Smart-Dashcam">Click!</a></td>
         </tr>
         <tr>
             <td colspan="2">두바퀴 교통수단의 안전을 위한 스마트 블랙박스</td>
