@@ -70,7 +70,7 @@
             <td rowspan="2"><a href="https://github.com/SEP-proj">Click!</a></td>
         </tr>
         <tr>
-            <td colspan="2">메타인지 능력 향상을 위한 글쓰기 플랫폼</td>
+            <td colspan="2">메타인지 능력 향상을 위한 글쓰기 플랫폼(융합프로젝트)</td>
         </tr>
         <tr align="center">
             <td rowspan="2"><code>Team 4</code></td>
