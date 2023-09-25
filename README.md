@@ -64,13 +64,13 @@
     <tbody>
         <tr align="center">
             <td rowspan="2"><code>Team 9</code></td>
-            <td rowspan="2">Meta Training:<br> 메타인지 능력 향상을 위한 글쓰기 플랫폼</td>
+            <td rowspan="2">Meta Training:<br> 글쓰기 보조 AI</td>
             <td>2023.09.07<br>~ 2023.09.27</td>
             <td>GPT4, Bard, Langchain</td>
             <td rowspan="2"><a href="https://github.com/SEP-proj">Click!</a></td>
         </tr>
         <tr>
-            <td colspan="2">두바퀴 교통수단의 안전을 위한 스마트 블랙박스</td>
+            <td colspan="2">메타인지 능력 향상을 위한 글쓰기 플랫폼</td>
         </tr>
         <tr align="center">
             <td rowspan="2"><code>Team 4</code></td>
