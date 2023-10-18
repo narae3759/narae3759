@@ -67,7 +67,7 @@
             <td rowspan="2">Meta Training:<br> 글쓰기 보조 AI</td>
             <td>2023.09.07<br>~ 2023.09.27</td>
             <td>GPT4, Bard, Langchain</td>
-            <td rowspan="2"><a href="https://github.com/SEP-proj">Click!</a></td>
+            <td rowspan="2"><a href="https://github.com/narae3759/MTVS_09_Meta_Training">Click!</a></td>
         </tr>
         <tr>
             <td colspan="2">메타인지 능력 향상을 위한 글쓰기 플랫폼(융합프로젝트)</td>
