@@ -63,6 +63,16 @@
     </thead>
     <tbody>
         <tr align="center">
+            <td rowspan="2"><code>Team 7</code></td>
+            <td rowspan="2">meta mingle:<br> 숏폼, 인터랙티브 무비를 통한 문화 교류 메타버스 플랫폼</td>
+            <td>2023.10.05<br>~ 2023.11.29</td>
+            <td>VNect Model, Mediapipe, GPT-4, MoviePy</td>
+            <td rowspan="2"><a href="https://github.com/narae3759/MTVS_10_meta_mingle">Click!</a></td>
+        </tr>
+        <tr>
+            <td colspan="2">메타인지 능력 향상을 위한 글쓰기 플랫폼(융합프로젝트)</td>
+        </tr>
+        <tr align="center">
             <td rowspan="2"><code>Team 9</code></td>
             <td rowspan="2">Meta Training:<br> 글쓰기 보조 AI</td>
             <td>2023.09.07<br>~ 2023.09.27</td>
