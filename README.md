@@ -1,4 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=47A4FA&text=👋Hello!%20I'm%20NaRae&fontSize=50&fontAlign=50&fontAlignY=35)
+## 👭 Contact
+
+<div align="center">
+  <a href="https://narae3759.github.io/"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.notion.so/Kim-NaRae-8d2ce8131e3b44dc9a20326f95e51a5b?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+</div>
 
 ## 🐣 Information
 
@@ -144,14 +150,6 @@
         </tr>
     </tbody>
 </table>
-
-## 👭 Contact
-
-<div align="center">
-  <a href="https://narae3759.github.io/"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.notion.so/Kim-NaRae-8d2ce8131e3b44dc9a20326f95e51a5b?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
-  <a href="https://narae3759.github.io/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white"></a>
-</div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=200&color=47A4FA&text=Thank%20You!&fontSize=50&fontcolor=000000&fontAlign=50&fontAlignY=70)
 
