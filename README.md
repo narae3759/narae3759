@@ -149,7 +149,7 @@
 
 <div align="center">
   <a href="https://narae3759.github.io/"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://narae3759.github.io/"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+  <a href="https://www.notion.so/Kim-NaRae-8d2ce8131e3b44dc9a20326f95e51a5b?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
   <a href="https://narae3759.github.io/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white"></a>
 </div>
 
